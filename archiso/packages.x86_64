@@ -285,24 +285,24 @@ firefox
 #flashplugin
 #galculator
 #geany
-#gimp
+gimp
 #gmrun
 #gsimplecal
 #guvcview
 imagemagick
-#inkscape
-#libreoffice-fresh
+inkscape
+libreoffice-fresh
 #lshw
 #meld
 #nitrogen
 numlockx
 #pragha
-#qbittorrent
+qbittorrent
 scrot
 #simplescreenrecorder
 termite
-variety
-#vlc
+#variety
+vlc
 
 ###conky
 jq
@@ -354,7 +354,7 @@ edid-decode-git
 #evince
 expac
 file-roller
-#filezilla
+filezilla
 git
 gksu
 #glances
@@ -434,14 +434,14 @@ zsh-syntax-highlighting
 ###########################################################################
 
 ###applications
-#vivaldi
-#vivaldi-ffmpeg-codecs
-#vivaldi-widevine
+vivaldi
+vivaldi-ffmpeg-codecs
+vivaldi-widevine
 
 ###cursors
 #breeze-cursors-lh
 #breeze-obsidian-cursor-theme
-#oxy-neon
+oxy-neon
 bibata-cursor-theme-bin
 breeze
 #xcursor-vanilla-dmz-aa
@@ -470,14 +470,14 @@ ttf-ms-fonts
 mkinitcpio-openswap
 
 ###utilities-repo
-alacritty
+#alacritty
 #appstream
 archiso
 conky-lua-archers
 downgrade
-#font-manager
+font-manager
 #glxinfo
-#gitahead-bin
+gitahead-bin
 grub-customizer
 hardcode-fixer-git
 inxi
@@ -485,7 +485,6 @@ mintstick-git
 neofetch
 #numix-gtk-theme-git
 pamac-all
-#pamac-aur
 paru-bin
 #peek
 #pulseaudio-equalizer-ladspa
@@ -499,20 +498,20 @@ rate-mirrors-bin
 #the_platinum_searcher-bin
 the_silver_searcher
 #trizen
-urxvt-fullscreen
-urxvt-perls
-urxvt-resize-font-git
+# urxvt-fullscreen
+# urxvt-perls
+# urxvt-resize-font-git
 #wttr
 yad
-yakuake
+#yakuake
 yay-bin
 
 ###########################################################################
 #                               GAMES
 ###########################################################################
 
-#arcolinux-meta-steam
-#lutris
+arcolinux-meta-steam
+lutris
 #sauerbraten
 #xonotic
 
@@ -520,7 +519,7 @@ yay-bin
 #                           ARCOLINUX FOLDER
 ###########################################################################
 
-arcolinux-alacritty-git
+#arcolinux-alacritty-git
 arcolinux-arc-kde
 #arcolinux-arc-themes-2021-git
 arcolinux-bin-git
@@ -587,8 +586,8 @@ arcolinux-termite-themes-git
 #arcolinux-tint2-git
 #arcolinux-tint2-themes-git
 arcolinux-tweak-tool-git
-arcolinux-variety-git
-arcolinux-variety-autostart-git
+#arcolinux-variety-git
+#arcolinux-variety-autostart-git
 #arcolinux-volumeicon-git
 arcolinux-wallpapers-git
 #arcolinux-wallpapers-dual-git
@@ -940,7 +939,7 @@ partitionmanager
 kdeconnect
 systemd-kcm
 ocs-url
-yakuake
+#yakuake
 spectacle
 okular
 gwenview
@@ -980,3 +979,35 @@ qt5-virtualkeyboard
 
 
 #kde-development-environment-meta
+
+
+##########################
+## CUSTOM
+##########################
+
+appimagelauncher
+neovim
+bitwarden
+obsidian
+typora
+calibre
+playonlinux
+rstudio-desktop
+gephi
+jdownloader2
+yadm
+pandoc
+pandoc-crossref
+visual-studio-code-bin
+php
+git
+github-cli
+blender
+krita
+stremio
+digikam
+kdenlive
+godot
+anaconda
+mysql-workbench
+composer
